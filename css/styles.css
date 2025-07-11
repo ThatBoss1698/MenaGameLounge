@@ -10865,6 +10865,11 @@ textarea.form-control-lg {
 
   .navbar-collapse {
     width: 100%;
+    display:none;
+  }
+
+  .navbar-collapse.show {
+    display:block;
   }
 
   .navbar-nav {
